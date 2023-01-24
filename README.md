@@ -1,7 +1,11 @@
+
 <h1 align="center">Hi 👋, I'm Zillur Rahman (Uzzal Sharif)</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
- <img align="right" alt="Coding Image" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+<img align="right" alt="Coding Image" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zillur07&label=Profile%20views&color=0e75b6&style=flat" alt="zillur07" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zillur07" alt="zillur07" /></a> </p>
 
 - 🔭 I’m currently working on [TheCitizen](https://play.google.com/store/apps/details?id=com.ctrendssoftware.thecitizen)
 
@@ -11,7 +15,7 @@
 
 - 📫 How to reach me **zillur.info1@gmail.com**
 
-- 📄 Please have a look at my Resume for more details about me. I'm open to feedback and suggestions! [https://drive.google.com/file/d/1Ul7UJOuf9cF23dBJxq7bMUNN-fTwwxHq/view?usp=sharing](https://drive.google.com/file/d/1Ul7UJOuf9cF23dBJxq7bMUNN-fTwwxHq/view?usp=sharing)
+- 📄 Please have a look at my Resume for more details about me. I'm open to feedback and suggestions! (https://drive.google.com/file/d/1Ul7UJOuf9cF23dBJxq7bMUNN-fTwwxHq/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Funny!!**
 
@@ -32,3 +36,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zillur07&show_icons=true&locale=en" alt="zillur07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zillur07&" alt="zillur07" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
